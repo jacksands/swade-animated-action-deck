@@ -44,5 +44,11 @@ To use it in SWADE, open Settings and designate it as the initiative card deck.
 
 
 
+License 
+
+
+legal code:  https://creativecommons.org/licenses/by-nc/4.0/
+
+Art by: https://app.leonardo.ai/   under Free user Usage   https://intercom.help/leonardo-ai/en/articles/8044018-commercial-usage 
 
 
