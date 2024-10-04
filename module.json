@@ -29,14 +29,7 @@
       "system": ""
     }
   ],
-
-  "relationships": {
-    "systems": [
-      {
-        "id": "",
-        "type": ""
-      }
-    ]   
+   
   },  
 
  "styles": [],
