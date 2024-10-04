@@ -5,7 +5,7 @@
   
   "authors": [
     {
-      "name": "Erich",
+      "name": "Jack Sands",
       "url": "",
       "flags": {}
     }
@@ -41,7 +41,7 @@
 
  "styles": [],
   
-  "url": "",
-  "manifest": "",  
-  "download": ""  
+    "url": "https://github.com/jacksands/swade-animated-action-deck",
+    "manifest": "https://raw.githubusercontent.com/jacksands/swade-animated-action-deck/refs/heads/main/module.json",
+    "download": "https://codeload.github.com/jacksands/swade-animated-action-deck/zip/refs/heads/main" 
 }
