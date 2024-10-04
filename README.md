@@ -1,4 +1,4 @@
-README
+**README**
 
 
 
@@ -7,17 +7,17 @@ A fun and simple module! Created using image editing and AI images, this animate
 ![card1](https://github.com/user-attachments/assets/ca007f76-df16-44d3-a81e-6f0388ff1d79)
 
 
-Features:
+**Features:**
 
 •	Animated Face Cards and Aces
 •	Unique Artwork for Number Cards
 •	Poker-Sized Deck
 
-Creation Process:
+**Creation Process:**
 
 •	Images were generated using Leonardo AI (animation was free at launch) and some also edited in Photoshop and Wondershare Filmora.
 
-Included Files:
+**Included Files:**
 
 •	MP4 Files: These animations can be used in the map canvas for added flair.
 ![card2](https://github.com/user-attachments/assets/c910ab63-8b3c-4c2f-a816-2b7ad1d05d95)
@@ -29,7 +29,7 @@ Have fun!
 
 
 
-Installation
+**Installation**
 
 Download the zip and extract to the modules folder or use Foundry installation through manifest.
 
@@ -44,7 +44,7 @@ To use it in SWADE, open Settings and designate it as the initiative card deck.
 
 
 
-License 
+**License**
 
 
 legal code:  https://creativecommons.org/licenses/by-nc/4.0/
