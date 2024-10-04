@@ -26,15 +26,15 @@
       "type": "Cards",
       "name": "animated-action-deck",
       "path": "packs/animated-action-deck",
-      "system": "swade"
+      "system": ""
     }
   ],
 
   "relationships": {
     "systems": [
       {
-        "id": "swade",
-        "type": "system"
+        "id": "",
+        "type": ""
       }
     ]   
   },  
