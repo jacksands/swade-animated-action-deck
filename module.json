@@ -43,5 +43,5 @@
   
   "url": "https://github.com/jacksands/swade-animated-action-deck",
   "manifest": "https://raw.githubusercontent.com/jacksands/swade-animated-action-deck/refs/heads/main/module.json",  
-  "download": "https://github.com/jacksands/swade-animated-action-deck/archive/refs/heads/main.zip"  
+  "download": "https://codeload.github.com/jacksands/swade-animated-action-deck/zip/refs/heads/main"  
 }
