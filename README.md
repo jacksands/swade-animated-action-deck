@@ -23,7 +23,7 @@ A fun and simple module! Created using image editing and AI images, this animate
 ![card2](https://github.com/user-attachments/assets/c910ab63-8b3c-4c2f-a816-2b7ad1d05d95)
 
 
-•	Static Image Files: Essential for chat areas, as they don’t support video files.
+•	Image Files: Essential for chat areas, as they don’t support video files.
 
 Have fun!
 
