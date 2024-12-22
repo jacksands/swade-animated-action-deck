@@ -42,6 +42,6 @@
  "styles": [],
   
     "url": "https://github.com/jacksands/swade-animated-action-deck",
-    "manifest": "https://raw.githubusercontent.com/jacksands/swade-animated-action-deck/refs/heads/main/module.json",
+    "manifest": "https://github.com/jacksands/alien-deep-down/blob/main/module.json",
     "download": "https://codeload.github.com/jacksands/swade-animated-action-deck/zip/refs/heads/main" 
 }
