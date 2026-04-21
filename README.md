@@ -2,7 +2,7 @@
  <br> 
  <br> 
  <br> 
-Animated Card Deck for SWADE <br> 
+Animated Card Deck Agnostic and for SWADE <br> 
 A fun and simple module! Created using image editing and AI images, this animated deck is designed specifically for SWADE.
  <br> 
   <br> 
@@ -16,7 +16,7 @@ A fun and simple module! Created using image editing and AI images, this animate
 •	Animated Face Cards and Aces <br> 
 •	Unique Artwork for Number Cards <br> 
 •	Poker-Sized Deck <br> 
-•	ADDED SUPPORT FOR ANY SYSTEM <br> 
+•	SUPPORT FOR ANY SYSTEM <br> 
  <br> 
  <br> 
  
