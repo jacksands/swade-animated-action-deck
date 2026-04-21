@@ -1,8 +1,7 @@
-{   
-  "id": "swade-animated-action-deck",   
+{
+  "id": "swade-animated-action-deck",
   "title": "Animated Action Deck - SWADE",
-  "description": "Animated action deck for SWADE.",   
-  
+  "description": "Animated action deck for SWADE.",
   "authors": [
     {
       "name": "Jack_Sands",
@@ -10,38 +9,29 @@
       "flags": {}
     }
   ],
-  
-  "version": "1.0.0",
-  
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "13"
+    "verified": "14.360"
   },
-  
   "esmodules": [],
-
   "packs": [
     {
-      "label": "Animated Action Deck",
+      "label": "Animated Action Deck (Poker)",
       "type": "Cards",
       "name": "animated-action-deck",
       "path": "packs/animated-action-deck",
       "system": "swade"
+    },
+    {
+      "label": "Animated Action Deck (Basic)",
+      "type": "Cards",
+      "name": "agnostic-action-deck",
+      "path": "packs/agnostic-action-deck"
     }
   ],
-
-  "relationships": {
-    "systems": [
-      {
-        "id": "swade",
-        "type": "system"
-      }
-    ]   
-  },  
-
- "styles": [],
-  
-    "url": "https://github.com/jacksands/swade-animated-action-deck",
-    "manifest": "https://raw.githubusercontent.com/jacksands/swade-animated-action-deck/refs/heads/main/module.json",
-    "download": "https://codeload.github.com/jacksands/swade-animated-action-deck/zip/refs/heads/main" 
+  "styles": [],
+  "url": "https://github.com/jacksands/swade-animated-action-deck",
+  "manifest": "https://raw.githubusercontent.com/jacksands/swade-animated-action-deck/refs/heads/main/module.json",
+  "download": "https://codeload.github.com/jacksands/swade-animated-action-deck/zip/refs/heads/main"
 }
