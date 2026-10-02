@@ -1,6 +1,9 @@
 # **README**
  <br> 
- <br> 
+![Downloads](https://img.shields.io/github/downloads/jacksands/swade-animated-action-deck/total)
+![Stars](https://img.shields.io/github/stars/jacksands/swade-animated-action-deck)
+![Última release](https://img.shields.io/github/v/release/jacksands/swade-animated-action-deck)
+![Issues](https://img.shields.io/github/issues/jacksands/swade-animated-action-deck)
  <br> 
 Animated Card Deck Agnostic and for SWADE <br> 
 A fun and simple module! Created using image editing and AI images, this animated deck is designed specifically for SWADE.
